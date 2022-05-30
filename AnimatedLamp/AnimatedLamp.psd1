@@ -12,7 +12,7 @@
     RootModule        = 'AnimatedLamp.psm1'
 
     # Version number of this module.
-    ModuleVersion     = '0.0.1'
+    ModuleVersion     = '0.0.2'
 
     # Supported PSEditions
     # CompatiblePSEditions = @()
@@ -98,7 +98,7 @@
             Tags       = @('lamp')
 
             # A URL to the license for this module.
-            LicenseUri = 'https://github.com/adamdriscoll/animated-lamp/blob/main/license'
+            LicenseUri = 'https://github.com/adamdriscoll/animated-lamp/blob/main/LICENSE'
 
             # A URL to the main website for this project.
             ProjectUri = 'https://github.com/adamdriscoll/animated-lamp'
